@@ -1,2 +1,2 @@
 #!/bin/bash
-distributor=$(lsb_release -is)
+lsb_release -i -s
